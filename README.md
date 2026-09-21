@@ -2,13 +2,6 @@
 
 Ứng dụng web lưu trữ PDF và chú thích trực tiếp trong trình duyệt.
 
-## Chạy
-
-```bash
-python3 -m http.server 5173 --bind 0.0.0.0
-```
-
-Mở `http://localhost:5173`.
 
 ## Có gì trong bản MVP
 
